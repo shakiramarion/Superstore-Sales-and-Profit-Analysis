@@ -1,2 +1,9 @@
 # Superstore-Sales-and-Profit-Analysis
-This project analyzes sales and profit performance for a superstore in Kenya, Tanzania, and Uganda. It covers product categories such as Furniture, Office Supplies, and Technology, evaluating yearly sales trends, profit margins, and discounts. It also examines subcategories like chairs, envelopes, and phones to identify product-specific performance. Insights include order priorities, customer segments, and shipping modes, providing recommendations to optimize sales strategies and enhance profitability across regions and products.
+## Problem Statement
+The project focuses on analyzing sales data from a superstore, with a particular emphasis on the performance of various office supplies across different cities and regions. The dataset encompasses various attributes such as product category, customer demographics, discounts, and sales figures over multiple years. Understanding the trends and patterns within this data is crucial for optimizing inventory management, enhancing marketing strategies, and improving overall business performance.
+
+## Project Objective
+To analyze the sales data of the superstore to identify trends, patterns, and insights that can inform strategic decisions for optimizing product offerings, pricing strategies, and inventory management to enhance overall business performance.
+
+## Dataset used
+- <a href=""
